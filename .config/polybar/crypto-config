@@ -1,0 +1,21 @@
+[general]
+base_currency = USD
+display = percentage
+
+[nano]
+icon = NANO
+
+[ripple]
+icon = XRP
+
+[stellar]
+icon = XLM
+
+[tron]
+icon = TRX
+
+[vechain]
+icon = VEN
+
+[golem]
+icon = GNT
