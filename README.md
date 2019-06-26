@@ -15,6 +15,7 @@ You can also find it on [reddit](https://www.reddit.com/r/unixporn/comments/c56s
 - [i3-gaps](https://github.com/Airblader/i3)
 - [polybar](https://github.com/polybar/polybar)
 - [tamzen](https://github.com/sunaku/tamzen-font) (polybar font)
+- [NerdFonts](https://github.com/ryanoasis/nerd-fonts) (polybar icons)
 - [pywal](https://github.com/dylanaraps/pywal)
 - [compton-tryone](https://github.com/tryone144/compton)
 - [dunst](https://github.com/dunst-project/dunst)
