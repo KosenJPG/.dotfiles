@@ -24,6 +24,7 @@ You can also find it on [reddit](https://www.reddit.com/r/unixporn/comments/c56s
 
 - [cava](https://github.com/karlstav/cava)
 - [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)
+- [neovim](https://github.com/neovim/neovim) or [vim](https://github.com/vim/vim) compiled with python
 
 ## Installation
 
