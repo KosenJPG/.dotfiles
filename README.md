@@ -30,7 +30,7 @@ You can also find it on [reddit](https://www.reddit.com/r/unixporn/comments/c56s
 
 #### 1 : Clone repository 
 
-`https://github.com/KosenJPG/.dotfiles.git`
+`git clone https://github.com/KosenJPG/.dotfiles.git`
 
 #### 2: *OPTIONAL* using [GNU Stow](https://www.gnu.org/software/stow/)
 
