@@ -57,7 +57,7 @@ stow -v -t ~/.Pictures/alena/ wallpaper/
 E.G
 ```
 cd ~/.dotfiles
-cp /.config ~/.config
+cp -r /.config ~/.config
 ```
 
 ## Final
